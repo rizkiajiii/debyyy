@@ -216,7 +216,7 @@ function initengahan() {
   }
   function aktipesan4() {
     wallpaper.style = "transform: scale(1.5);";
-    kalimat.innerHTML = pesan4.innerHTML + nama + " 🥳";
+    kalimat.innerHTML = pesan4.innerHTML + nama + " 🤍";
     kalimat.style = "transform:scale(1.2)";
     setTimeout(aktipesan5, 1000);
   }
